@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+scikit-learn
+tensorflow
+# Pin protobuf to a version compatible with tensorflow to avoid import errors.
+protobuf==3.20.3
+protobuf==3.20.3
+tensorflow==2.12.0
